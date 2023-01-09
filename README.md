@@ -8,10 +8,9 @@
 
 # Steps:
 
-1. Install Keypages
-    - paru -S
+1. Install Key Packages
+    - paru -S chezmoi
 2. Load these dotfiles
-    - sudo pacman -S chezmoi
     - chezmoi -- init --apply mikefive2
 
 
