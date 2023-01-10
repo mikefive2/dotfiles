@@ -60,6 +60,7 @@ paru -S librewolf-bin brave-bin
 paru -S chezmoi
 ```
 - Load my dotfiles
-    - chezmoi -- init --apply mikefive2
-
+```
+chezmoi -- init --apply mikefive2
+``````
 
