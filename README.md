@@ -1,8 +1,6 @@
 # Dotfiles
 
-## Here are my dotfiles for my Arch Linux Rice using Hyprland.
-
-### Screenshots
+## Screenshots
 
 ![](./assets/example.png)
 
