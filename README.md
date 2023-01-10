@@ -19,6 +19,11 @@ paru -S hyprland-git
 ```
 paru -S rofi dunst waybar-hyprland-git kitty swaybg swaylock-effects swayidle pamixer light brillo wl-clipboard cava starship
 ```
+- Install a Browser 
+
+```
+paru -S librewolf-bin brave-bin
+```
 
 - Other Utilities:
     - For screenshots tools to work you have to install grim, swappy, slurp:
@@ -48,12 +53,6 @@ paru -S rofi dunst waybar-hyprland-git kitty swaybg swaylock-effects swayidle pa
   ```
   > After that, launch nwg-look then choose the decay themes
   </blockquote></details>
-
-- Install Browser 
-
-```
-paru -S librewolf-bin brave-bin
-```
 
 - Install Chezmoi to sync configs
 
