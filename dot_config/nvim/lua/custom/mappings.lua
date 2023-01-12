@@ -18,8 +18,8 @@ map("n", "<F11>", ":set spell!<CR>")
 map("n", "<F10>", ":set conceallevel=1<CR>")
 
 -- Pandoc Keybinds
-map("n", "<leader>r", ":silent !pandoc % --to=pdf > %.pdf && zathura %.pdf")
-map("n", "<leader>w", ":silent !pandoc % --to=pdf > %.pdf")
+map("n", "<leader>r", ":silent !pandoc % --to=pdf > %.pdf && zathura %.pdf &")
+map("n", "<leader>w", ":silent !pandoc % --to=pdf > %.pdf &")
 
 -- Toggle Term
 function _G.set_terminal_keymaps()
